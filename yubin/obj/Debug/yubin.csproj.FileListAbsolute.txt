@@ -1,0 +1,15 @@
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\yubin.exe.config
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\yubin.exe
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\yubin.pdb
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\RestSharp.dll
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\bin\Debug\RestSharp.xml
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.csprojAssemblyReference.cache
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.Form1.resources
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.Properties.Resources.resources
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.csproj.GenerateResource.cache
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.csproj.CoreCompileInputs.cache
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.csproj.CopyComplete
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.exe
+C:\Users\OHNISHIY\Documents\task\5.教育関係\190705\yubin\yubin\obj\Debug\yubin.pdb
